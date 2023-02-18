@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Aurora.ai**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Golang**
 
 - 📫 How to reach me **clementverhille.pro@gmail.com**
 
