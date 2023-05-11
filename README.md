@@ -22,8 +22,9 @@
 
 ## 📑 Statistics
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modaxdev&show_icons=true&locale=en&layout=compact" alt="modaxdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=modaxdev&show_icons=true&locale=en" alt="modaxdev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modaxdev&" alt="0x346e3730" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modaxdev&" alt="modaxdev" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modaxdev&theme=vue)
