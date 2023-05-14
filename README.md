@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **clementverhille.pro@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modaxdev" alt="modaxdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modaxdev" alt="modaxdev" /></a> </p> 
 
 
 <h3 align="left">Connect with me:</h3>
