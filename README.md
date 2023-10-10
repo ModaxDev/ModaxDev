@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="modaxdev" /> </p>
 
-- 🌱 I’m currently working on a  **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="25"/> Golang** project  
-
+- 🌱 I’m currently working on a FundMize
 - 📫 How to reach me **clementverhille.pro@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modaxdev" alt="modaxdev" /></a> </p> 
