@@ -5,8 +5,8 @@
 - 📫 How to reach me **clementverhille.pro@gmail.com**
 - 
 <h3 align="left">SaaS :</h3>
-- ⚡️ tingl.fr ( Sold: $7K ) 
-- 📈 FundMize ( …building )
+- ⚡️ tingl.fr ( Sold: $7K )**
+- 📈 FundMize ( …building )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
