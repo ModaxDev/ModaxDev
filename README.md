@@ -5,7 +5,7 @@
 - 📫 How to reach me **clementverhille.pro@gmail.com**
   
 <h3 align="left">SaaS:</h3>
-<p>- ⚡️ tingl (Sold: $7K) </p>
+<p>- ⚡️ tingl (Sold) </p>
 <p>- 📈 Spectrum (current building) </p>
 
 <h3 align="left">Connect with me:</h3>
