@@ -5,7 +5,7 @@
 - 📫 How to reach me **clementverhille.pro@gmail.com**
   
 <h3 align="left">SaaS:</h3>
-<p>- 📝 [Ekklo](https://ekklo.com) (Sold) </p>
+<p>- 📝 [Ekklo](https://ekklo.com) </p>
 <p>- 📝 [tingl](https://indigoinvoice.com) (Sold) </p>
 <p>- ⚡ [Spectrum](https://usespectrum.dev) </p>
 <p>- 📈 [keepuser](https://keepuser.dev ) </p>
